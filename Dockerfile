@@ -1,1 +1,1 @@
-FROM docker.io/harrywujy/ag-fly:latest
+FROM ghcr.io/heyzone/ag-fly:latest
